@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e1f4003a-c8eb-4943-b422-ca83bb79509b)![image](https://github.com/user-attachments/assets/65942e1c-1926-4ce6-88a6-950950335512)# Конфігурація робочого середовища Arch Linux
+![image](https://github.com/user-attachments/assets/e1f4003a-c8eb-4943-b422-ca83bb79509b)! Конфігурація робочого середовища Arch Linux
 
 Цей документ описує налаштування мого робочого середовища на базі Arch Linux із використанням Hyprland як віконного менеджера та кількох додаткових утиліт для створення зручного та функціонального десктопу.
 
